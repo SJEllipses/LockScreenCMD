@@ -1,4 +1,4 @@
-![demo](./README/demo.gif)
+![demo](./readme/demo.gif)
 
 # Lock Screen CMD
 
