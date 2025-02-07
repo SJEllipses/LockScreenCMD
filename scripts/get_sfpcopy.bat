@@ -1,6 +1,6 @@
 @echo off
 
-if not exist "%~dp0tools\extract_one_file.exe" (
+if not exist ".\tools\extract_one_file.exe" (
     echo Error: extract_one_file.exe not exists.
     pause
     exit /b 1
