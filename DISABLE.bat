@@ -5,6 +5,9 @@ if not exist "%~dp0tools\sfpcopy.exe" (
     echo sfpcopy.exe not exists, starting download...
     echo.
     call %~dp0scripts\get_sfpcopy.bat
+    if errorlevel 1 (
+        exit /b 1
+    )
 ) else (
     echo sfpcopy.exe exists
 )
