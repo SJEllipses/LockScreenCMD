@@ -2,7 +2,7 @@
 
 # Lock Screen CMD
 
-Invoke a **command line** with SYSTEM privileges by tapping the "**Accessibility**" button on the lock screen.
+Invoke a **command line** with SYSTEM privileges by clicking the "**Accessibility**" button on the lock screen.
 
 ## How it works?
 
