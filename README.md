@@ -43,6 +43,7 @@ You can manually copy sfpcopy.exe to the tools directory after the download is c
 2. Configure the Bit7z lib.
 3. Build.
 4. Copy the ouput extract_one_file.exe and run_as_admin.exe to the **tools** directory.
+5. Copy your 7z.dll to the **tools** directory.
 
 ## Additional
 
