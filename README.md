@@ -47,4 +47,4 @@ You can manually copy sfpcopy.exe to the tools directory after the download is c
 
 ## Additional
 
-You can recover lost system files with the `sfc /scannow` command
+You can recover lost system files with the `sfc /scannow` command.
