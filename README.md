@@ -31,7 +31,7 @@ It is located in the following directory:
 You can manually copy sfpcopy.exe to the tools directory after the download is complete before running ENABLE.bat, otherwise the script will automatically download it via Invoke-WebRequest and extract it via extract_one_file.
 
 
-## Requirements
+## Build Requirements
 
 1. [.Net Framework SDK 4.7.2](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472) (for building run_as_admin)
 2. [Bit7z](https://github.com/rikyoz/bit7z) (for building extract_one_file)
