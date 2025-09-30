@@ -33,7 +33,7 @@ You can manually copy sfpcopy.exe to the tools directory after the download is c
 
 ## Build Requirements
 
-1. [.Net Framework SDK 4.7.2](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472) (for building run_as_admin)
+1. [.NET Framework SDK 4.7.2](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net472) (for building run_as_admin)
 2. [Bit7z](https://github.com/rikyoz/bit7z) (for building extract_one_file)
 3. [7z.dll](https://www.7-zip.org/) (for running extract_one_file)
 
