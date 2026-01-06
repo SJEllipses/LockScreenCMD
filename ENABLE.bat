@@ -12,4 +12,10 @@ if not exist "%~dp0tools\sfpcopy.exe" (
     echo sfpcopy.exe already exists
 )
 
+if not exist "%~dp0tools\run_as_admin.exe" (
+    echo Error: run_as_admin.exe not exists, administrator privileges are required.
+    pause
+    exit /b 1
+)
+
 %~dp0tools\run_as_admin.exe .\scripts\enable_lockscreen_cmd.bat
